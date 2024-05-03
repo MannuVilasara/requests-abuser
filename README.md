@@ -1,1 +1,1 @@
-a requests abuser in python. just made for fun purpose. modify the config.py file if u want to use anything from it
+A requests abuser in python. just made for fun purpose. modify the config.py file if you want to use anything from it. run the abuber.py file and follow the instructions. the script will send request to that url with the number of count you entered and the method you selected.
