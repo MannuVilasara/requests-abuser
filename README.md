@@ -1,0 +1,1 @@
+a requests abuser in python. just made for fun purpose. modify the config.py file if u want to use anything from it
